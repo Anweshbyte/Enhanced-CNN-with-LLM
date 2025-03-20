@@ -40,22 +40,22 @@ python main.py --data_path /path/to/dataset --output_path ./output --visualize
 
 chest-xray-analysis/
 │
-├── main.py # Entry point for the application
-├── README.md # Project documentation
-├── requirements.txt # Dependencies
+├── main.py                 # Entry point for the application
+├── README.md               # Project documentation
+├── requirements.txt        # Dependencies
 │
-├── src/ # Source code
-│ ├── data/ # Data handling
-│ │ ├── loader.py # Data loading functions
-│ │ └── processor.py # Data preprocessing functions
-│ │
-│ ├── models/ # Model definitions
-│ │ └── embeddings.py # Embedding models
-│ │
-│ └── utils/ # Utility functions
-│ └── visualization.py # Visualization utilities
+├── src/                    # Source code
+│   ├── data/               # Data handling
+│   │   ├── loader.py       # Data loading functions
+│   │   └── processor.py    # Data preprocessing functions
+│   │
+│   ├── models/             # Model definitions
+│   │   └── embeddings.py   # Embedding models
+│   │
+│   └── utils/              # Utility functions
+│       └── visualization.py # Visualization utilities
 │
-└── tests/ # Unit tests
+└── tests/                  # Unit tests
 
 
 ## License
