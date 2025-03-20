@@ -1,4 +1,4 @@
-# Chest X-ray Analysis
+# Chest X-ray Analysis with CNNs and LLMs
 
 A tool for analyzing chest X-ray images using deep learning techniques.
 
