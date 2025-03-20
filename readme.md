@@ -38,6 +38,7 @@ python main.py --data_path /path/to/dataset --output_path ./output --visualize
 
 ## Project Structure
 
+```plaintext
 chest-xray-analysis/
 │
 ├── main.py                 # Entry point for the application
