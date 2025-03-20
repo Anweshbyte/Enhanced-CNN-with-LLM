@@ -13,6 +13,20 @@ This project provides a framework for processing and analyzing chest X-ray image
 
 ## Dataset
 
+@article{,
+  title= {Indiana University - Chest X-Rays (PNG Images)},
+  keywords= {radiology, chest x-ray},
+  author= {OpenI},
+  abstract= {1000 radiology reports for the chest x-ray images from the Indiana University hospital network.
+
+To identify images associated with the reports, use XML tag. More than one image could be associated with a report.
+
+![Example Image](https://i.imgur.com/5uR5snH.png)
+  },
+  license= {Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License},
+  url= {https://openi.nlm.nih.gov/faq.php}
+}
+
 The dataset contains chest X-ray images along with:
 - Medical captions and findings
 - Clinical impressions
